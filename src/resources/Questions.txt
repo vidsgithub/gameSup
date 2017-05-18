@@ -1,0 +1,156 @@
+Questions for the game
+
+Questions for level 1
+
+1) Oh no! This triangle is missing its functions! Help this triangle find its sine and cosine by means of θ!
+
+	triangle(10?,6,8)
+	
+	answer: sin θ = 4/5, cos θ = 3/5
+	other answers: sine θ = 8/10, cos θ = 6/10; sin θ = 6/8, cos θ = 8/6; sin θ = 3/4, cos θ = 4/3
+
+2) Oh no! This triangle is missing its functions! Help this triangle find its sine, tangent, and cotangent by means of θ!
+
+	triangle(5, 4, 3?)
+	
+	answer: sin θ = 3/5, tan θ = 3/4, cot θ = 4/3
+	other answers: sin θ = 5/3, tan θ = 4/3, cot θ = 3/4; sin θ = 3/5, tan θ = 4/3, cot θ = 3/4; sin θ = 5/3, tan θ = 3/4, cot θ = 4/3
+
+3) Oh no! This triangle is missing all its functions! Help this triangle find all of its 6 trigonometric functions!
+	
+	triangle(17?, 8, 51)
+	
+	answer: sin θ = 15/17, cos θ = 8/17, tan θ = 15/8, cot θ = 8/15, sec θ = 17/8, csc θ = 17/8
+	other answers: sin θ = 17/15, cos θ = 8/17, tan θ = 15/8, cot θ = 8/15, sec θ = 17/8, csc θ = 17/8; sin 8/17, cos θ = 17/8, tan θ = 15/8, cot θ = 8/15, sec θ = 17/8, csc θ = 17/8; sin θ = 15/17, cos θ = 8/17, tan θ = 15/8, cot θ = 8/15, sec θ = 17/8, csc θ = 15/17
+	
+4) Oh no! this triangle is missing some of its functions! Help this triangle find its tangent and cosecant by means of θ!
+
+	triangle (13?, 12, 50)
+	
+	answer: tan θ = 5/12, csc θ = 13/5
+	other answers: tan θ = 12/5, csc θ = 13/5; tan θ = 5/12, csc θ = 5/13; tan θ = 12/5, csc θ = 5/13
+	
+5) Oh no! This triangle is missing some of its functions! Help this triangle find its sine, cosine, and tangent!
+
+	triangle(25, 7?, 24)
+	
+	answer: sin θ = 24/25, cosine θ = 7/25, tangent θ = 24/7
+	other answers: sin θ = 25/24, cosine θ = 7/25, tangent θ = 24/7; sin θ = 24/25, cosine θ = 25/7, tangent θ = 24/7; sin θ = 24/25, cosine θ = 7/25, tangent θ = 7/24 
+	
+6) Oh no! This triangle forgot what sine, cosine and tangent represent so it can't get all its values together, tell the triangle what it means!
+
+	triangle(2, 3, 4)
+	
+	answer: sin = opp/hyp, cos=adj/hyp, tan=opp/adj
+	other answers: sin = hyp/opp, cos=adj/hyp, tan=opp/adj; sin=opp/hyp, cos=hyp/adj, tan=opp/hyp; sin=opp/hyp, cos=hyp/adj, tan=adj/opp
+
+Questions for level 2
+
+1) Help this triangle find its missing side length! Side a = 6, side b = 7, angle c = 20 degrees, what is side c?
+
+	triangle (a, b, c)
+	
+	answer: 2.46
+	other answers: 2.59; 3.88; 40.32
+	
+2) Help this triangle find its missing angle! Side a = 8, side b =10, side c = 12, what is the measure of angle B?
+
+	triangle(a, b, c)
+	
+	answer: 55.8 degrees
+	other answers: 60 degrees; 56.37 degrees; 48.9 degrees
+	
+3) Help this triangle find its missing angle! Side a =13, side b = 30, side c = 40, what is the measure of the smallest angle?
+
+	triangle(a, b, c)
+	
+	answer: 13.8 degrees
+	other answers: 14.8 degrees; 17.9 degrees; 13.1 degrees
+	
+4) Help this triangle find its missing angle! side a = 1.6, side b = 0.9, side c = 1.8, what is the measure of the largest angle?
+
+	 triangle (a, b, c)
+	 
+	 answer: 87.4 degrees
+	 other answers: 90 degrees; 85.88 degrees; 83.21 degrees
+	 
+5) Help this triangle find its missing side! Side c = 15, side b = 30, angle c = 20, angle b = 20, what is the measure of side a?
+
+	triangle (a, b, c)
+	
+	answer: 42.6 
+	other answers: 45.7; 42.1; 43.71
+	
+6) Three circles with the radii 26 in, 36 in, and 30 in are externally tangent to each other. Find the angles of the triangle formed by joining their centers
+
+	triangle(none)
+	
+	answer: 69.2 degrees, 51.1 degrees, 59.7 degrees
+	other answers: 70 degrees, 71.8 degrees, 40.2 degrees; 69.8 degrees, 50.14 degrees, 71.44 degrees; 89.6 degrees, 91.45 degrees, 43.66
+	
+Questions for level 3
+
+1) This triangle only has side a = 15 and angle a = 40 degrees. Help find angle B if side b is 20. 
+
+	triangle(a, b, c)
+	
+	answer: 59 degrees or 121 degrees
+	other answers: 59 degrees; 121 degrees; 60 degrees or 121 degrees
+	
+2) This triangle only has side a = 15 and angle a = 40 degrees. Help find angle B if side b is 8
+
+	triangle(a, b, c)
+	
+	answer: 20 degrees
+	other answers: 20.56 degrees; 20 degrees or 40 degrees; 30.6 degrees
+	
+3) This triangle is missing some values and needs your help! Side b = 3.40, angle A = 110 degrees, angle C = 50, what is side a?
+
+	triangle(a, b, c)
+	
+	answer: 49.7
+	other answers: 52; 32.1; 48
+	
+4)This triangle is missing some values and needs your help! Side a = 4, side b = 3, angle A = 40, what is the measure of the angle B?
+
+	triangle (a, b, c)
+	
+	answer: 28.8 degrees
+	other answers: 28.8 degrees or 32.8 degrees; 20.7 degrees or 4.21 degrees; 27.42 degrees
+	
+5) This triangle is missing some values and needs your help! Side a = 4.0; side c = 6.4, angle C = 125, what is the measure of angle B?
+
+	triangle (a, b, c)
+	
+	answer: 24.2 degrees
+	other answers: 27 degrees; 25.88 degrees; 3.09 degrees
+	
+6) This triangle is missing some values and needs your help! 
+
+	triangle(a, b, c)
+	
+	answer: 69.5 degrees or 110.5 degrees
+	other answers: 110.5 degrees; 44.7 degrees or 78.3 degrees; 69.5 degrees
+	
+Questions for level 4
+
+1) This triangle is broken and needs to be solved! Side a = 4; side b = 6; and side c =5
+
+	triangle(a, b, c)
+	
+	answer: angle A = 41.4, angle B = 82.8, angle C =55.8
+	other answers: angle A = 40.4, angle B = 81.2, angle C= 54.8; angle A = 82.8, angle B = 41.4, angle C = 55.8; angle A = 55.8, angle B = 88.2, angle C =41.4
+	
+2) This triangle is broken and needs to be solved! side a = 8, side c = 7 and angle B = 31.8
+
+	triangle(a, b, c)
+	
+	answer: angle A = 86.8, b = 4.2, angle C = 61.4
+	other answers: angle A = 88.7, b = 4.2, angle C = 64.8; angle A = 61.4, angle C = 86.8 side b = 4.2; angle A = 4.2, side b = 86.8, angle C = 64.8
+	
+3)This triangle is broken and needs to be solved! Side b = 22, side c = 30, and angle B = 30 
+
+	triangle(a, b, c)
+	
+	answer: angle A = 107, angle C = 43, side a = 42.1 or angle A = 13, angle C = 137
+	other answers: angle A = 102, angle C = 42, side a = 45.1 or angle A = 13, angle C = 137; angle A = 17, angle C = 43, side a = 42.1 or angle A = 107, angle C = 137; angle A = 7, angle C = 49, side a = 42.1 or angle A = 17, angle C = 137

@@ -1,0 +1,4 @@
+Mini lesson for Level 1
+
+sine cosine and tangent are the main functions used to find trigonometric values in geometry
+	1.
